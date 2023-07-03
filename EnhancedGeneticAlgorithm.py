@@ -110,7 +110,7 @@ def makeNewGeneration(currentGeneration, formula, crossoverChance, mutationChanc
             newGeneration.append((child2, child2Evaluation))
     return newGeneration
 
-def betterGeneticAlgorithm(formula):
+def enhancedGeneticAlgorithm(formula):
     data = []
     hasSolution = False
     solver = Solver()
@@ -144,12 +144,12 @@ def plot(data):
     plt.plot(x, y)
     plt.xlabel('Generation')
     plt.ylabel('Number of Satisfied Clauses')
-    plt.title('Better Genetic Algorithm')
+    plt.title('Enhanced Genetic Algorithm')
     plt.show()
 
 def main(filename):
     formula = CNF(from_file=filename)
-    hasSolution, solution, data = betterGeneticAlgorithm(formula)
+    hasSolution, solution, data = enhancedGeneticAlgorithm(formula)
     if hasSolution:
         print('Satisfiable\nBest Found Solution: ', solution[0], '\nNumber of Satisfied Clauses: ', solution[1])
     else:
