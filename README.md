@@ -4,14 +4,15 @@ This repository provides implementations of three different metaheuristic algori
 
 ## 📖 Table of Contents
 
-  * [What is the SAT Problem?](https://www.google.com/search?q=%23-what-is-the-sat-problem)
-  * [Algorithms Implemented](https://www.google.com/search?q=%23-algorithms-implemented)
-      * [Simulated Annealing](https://www.google.com/search?q=%231-simulated-annealing)
-      * [Standard Genetic Algorithm](https://www.google.com/search?q=%232-standard-genetic-algorithm)
-      * [Enhanced Genetic Algorithm](https://www.google.com/search?q=%233-enhanced-genetic-algorithm)
-  * [🛠️ Setup and Usage](https://www.google.com/search?q=%23%EF%B8%8F-setup-and-usage)
-  * [📂 Project Structure](https://www.google.com/search?q=%23-project-structure)
-  * [📊 Output](https://www.google.com/search?q=%23-output)
+  * [What is the SAT Problem?](https://github.com/Mohammad-Momeni/SAT-Solver/#what-is-the-sat-problem)
+  * [Algorithms Implemented](https://github.com/Mohammad-Momeni/SAT-Solver/#algorithms-implemented)
+      * [Simulated Annealing](https://github.com/Mohammad-Momeni/SAT-Solver/#simulated-annealing)
+      * [Standard Genetic Algorithm](https://github.com/Mohammad-Momeni/SAT-Solver/#standard-genetic-algorithm)
+      * [Enhanced Genetic Algorithm](https://github.com/Mohammad-Momeni/SAT-Solver/#enhanced-genetic-algorithm)
+  * [🛠️ Setup and Usage](https://github.com/Mohammad-Momeni/SAT-Solver/#setup-and-usage)
+  * [📂 Project Structure](https://github.com/Mohammad-Momeni/SAT-Solver/#project-structure)
+  * [📊 Output](https://github.com/Mohammad-Momeni/SAT-Solver/#output)
+  * [🤖 Sample](https://github.com/Mohammad-Momeni/SAT-Solver/#sample)
 
 -----
 
