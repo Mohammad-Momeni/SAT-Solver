@@ -3,16 +3,15 @@
 This repository provides implementations of three different metaheuristic algorithms to find solutions for the **Boolean Satisfiability Problem (SAT)**. The input problems are expected to be in the standard **Conjunctive Normal Form (CNF)**.
 
 ## 📖 Table of Contents
-
-  * [What is the SAT Problem?](https://github.com/Mohammad-Momeni/SAT-Solver/#what-is-the-sat-problem)
-  * [Algorithms Implemented](https://github.com/Mohammad-Momeni/SAT-Solver/#algorithms-implemented)
-      * [Simulated Annealing](https://github.com/Mohammad-Momeni/SAT-Solver/#simulated-annealing)
-      * [Standard Genetic Algorithm](https://github.com/Mohammad-Momeni/SAT-Solver/#standard-genetic-algorithm)
-      * [Enhanced Genetic Algorithm](https://github.com/Mohammad-Momeni/SAT-Solver/#enhanced-genetic-algorithm)
-  * [🛠️ Setup and Usage](https://github.com/Mohammad-Momeni/SAT-Solver/#setup-and-usage)
-  * [📂 Project Structure](https://github.com/Mohammad-Momeni/SAT-Solver/#project-structure)
-  * [📊 Output](https://github.com/Mohammad-Momeni/SAT-Solver/#output)
-  * [🤖 Sample](https://github.com/Mohammad-Momeni/SAT-Solver/#sample)
+* [What is the SAT Problem?](#-what-is-the-sat-problem)
+* [Algorithms Implemented](#-algorithms-implemented)
+  * [Simulated Annealing](#1-simulated-annealing)
+  * [Standard Genetic Algorithm](#2-standard-genetic-algorithm)
+  * [Enhanced Genetic Algorithm](#3-enhanced-genetic-algorithm)
+* [Setup and Usage](#️-setup-and-usage)
+* [Project Structure](#-project-structure)
+* [Output](#-output)
+* [Sample](#-sample)
 
 -----
 
