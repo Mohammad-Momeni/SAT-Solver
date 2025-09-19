@@ -142,7 +142,7 @@ For each algorithm, you can expect the following output:
 
 3.  **Performance Plot**: A plot will be generated and displayed, showing the improvement in the number of satisfied clauses over iterations or generations.
 
-## 🤖 Sample
+## 🎨 Sample
 
 Here is one sample of running the "EnhancedGeneticAlgorithm":
 
